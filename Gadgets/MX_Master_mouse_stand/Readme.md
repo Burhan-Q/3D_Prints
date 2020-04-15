@@ -1,0 +1,5 @@
+3D printable mouse stand for Logitech MX Master Mouse 2S
+
+Designed to print on Ender 3 with 0.2mm layer height in PLA.
+
+[Timelapse of 3D print](https://www.youtube.com/watch?v=xgeUZ0BmrPc)
